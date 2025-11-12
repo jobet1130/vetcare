@@ -1,0 +1,124 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-vet-pets",
+      "description": "A veterinarian smiling and holding a happy dog and cat.",
+      "imageUrl": "https://images.unsplash.com/photo-1572290603512-cd1d7dad06e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx2ZXRlcmluYXJpYW4lMjBwZXRzfGVufDB8fHx8MTc2MjkzMzI3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "veterinarian pets"
+    },
+    {
+      "id": "service-checkup",
+      "description": "Icon for check-ups.",
+      "imageUrl": "https://images.unsplash.com/photo-1682706841478-88eb8995357b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdGV0aG9zY29wZSUyMGhlYWx0aHxlbnwwfHx8fDE3NjI5MzMyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stethoscope health"
+    },
+    {
+      "id": "service-surgery",
+      "description": "Icon for surgery.",
+      "imageUrl": "https://images.unsplash.com/photo-1744829903372-6e6f254780bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwc3VyZ2VyeXxlbnwwfHx8fDE3NjI5MzMyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical surgery"
+    },
+    {
+      "id": "service-grooming",
+      "description": "Icon for grooming.",
+      "imageUrl": "https://images.unsplash.com/photo-1588269845464-8993565cac3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkb2clMjBncm9vbWluZ3xlbnwwfHx8fDE3NjI5MTQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog grooming"
+    },
+    {
+      "id": "service-vaccination",
+      "description": "Icon for vaccinations.",
+      "imageUrl": "https://images.unsplash.com/photo-1618093970253-002eac767c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2YWNjaW5lJTIwbWVkaWNhbHxlbnwwfHx8fDE3NjI5MzMyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vaccine medical"
+    },
+    {
+      "id": "service-dental",
+      "description": "Icon for dental care.",
+      "imageUrl": "https://images.unsplash.com/photo-1655807946138-811bb2340d34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXQlMjBkZW50YWx8ZW58MHx8fHwxNzYyOTMzMjc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pet dental"
+    },
+    {
+      "id": "service-boarding",
+      "description": "Icon for pet boarding.",
+      "imageUrl": "https://images.unsplash.com/photo-1684598467573-a3ff7b9587bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXQlMjBrZW5uZWx8ZW58MHx8fHwxNzYyOTMzMjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pet kennel"
+    },
+    {
+      "id": "about-clinic",
+      "description": "A warm and inviting photo of the clinic's reception area.",
+      "imageUrl": "https://images.unsplash.com/photo-1631507623112-0092cef9c70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbGluaWMlMjByZWNlcHRpb258ZW58MHx8fHwxNzYyODU0Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic reception"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Professional headshot of Dr. Emily Carter.",
+      "imageUrl": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2Mjg4ODYyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Professional headshot of Dr. James Rodriguez.",
+      "imageUrl": "https://images.unsplash.com/photo-1607031542107-f6f46b5d54e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI4NTg1MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Professional headshot of Sarah Lee, Vet Technician.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1559855603-ce4c8f480d76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyODY1MTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Professional headshot of Mike Chen, Groomer.",
+      "imageUrl": "https://images.unsplash.com/photo-1725866546799-4cc16f6cba23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2MjgyNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "A happy dog playing with a toy.",
+      "imageUrl": "https://images.unsplash.com/photo-1661091856780-88d7d4091c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2clMjBwbGF5aW5nfGVufDB8fHx8MTc2Mjg2ODM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog playing"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A cat sleeping in a sunbeam.",
+      "imageUrl": "https://images.unsplash.com/photo-1665199020973-5cbe8f6cb617?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXQlMjBzbGVlcGluZ3xlbnwwfHx8fDE3NjI4Mjg1NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cat sleeping"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A person walking their dog in a park.",
+      "imageUrl": "https://images.unsplash.com/photo-1605001011156-cbf0b0f67a51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2clMjB3YWxrfGVufDB8fHx8MTc2MjkzMzI3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog walk"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar for Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1594616838951-c155f8d978a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzYyODQ2MTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar for John Smith.",
+      "imageUrl": "https://images.unsplash.com/photo-1724435811349-32d27f4d5806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzYyODQ2MTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Avatar for Emily White.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135645-005e250ff210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyfGVufDB8fHx8MTc2Mjg0NjE4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "contact-map",
+      "description": "A map showing the location of the clinic.",
+      "imageUrl": "https://images.unsplash.com/photo-1717343823307-973d0903d222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MjkyNjg0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "not-found-pet",
+      "description": "A sad-looking puppy, for the 404 page.",
+      "imageUrl": "https://images.unsplash.com/photo-1667779273129-bc456adf343e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzYWQlMjBkb2d8ZW58MHx8fHwxNzYyODg4NTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sad dog"
+    }
+  ]
+}
